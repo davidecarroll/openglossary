@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<page>
+<paragraph>OPEN GLOSSARY</paragraph>
+<paragraph>
+This glossary is designed to to be a resource to help inform people about the culture of ‘open scholarship’.
+</paragraph>
+<paragraph>CORE DEFINITIONS</paragraph>
+<faq>
+<question>
+Open Access (OA)
+</question>
+<answer>
+Making peer reviewed scholarly manuscripts freely available via the Internet, permitting any user to read, download, copy, distribute, print, search, or link to the full text of these articles, crawl them for indexing, pass them as data to software, or use them for any lawful purpose, without financial, legal or technical barriers other than those inseparable from gaining access to the internet itself. The only constraint on reproduction and distribution, and the only role for copyright in this domain, should be to give authors control over the integrity of their work and the right to be properly acknowledged and cited. May also refer to theses, books, book chapters, monographs and other content. (B​OAI)
+</answer>
+</faq>
+<faq>
+<question>
+  Open Data
+</question>
+<answer>
+M​aking data freely available on the public internet permitting any user to download, copy, analyse, re-process, pass them to software or use them for any other purpose without financial, legal, or technical barriers other than those inseparable from gaining access to the internet itself. (P​anton Principles)​
+</answer>
+</faq>
+<faq>
+<question>
+Open Educational Resources (OER)
+</question>
+<answer>
+High quality, openly licensed, online educational materials for sharing, use, and reuse. They act as a mechanism for instructional innovation as networks of teachers and learners share best practices. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Open Source Software (OSS)
+</question>
+<answer>
+Availability of source code for a piece of software, along with an o​pen source license​permitting reuse, adaptation, and further distribution. (W​ikipedia)​
+</answer>
+</faq>
+<faq>
+<question>
+Article Processing Charge (APC)
+</question>
+<answer>
+​A fee charged to the author, creator, or institution to cover the cost of an article, rather than charging the potential reader of the article. APCs may apply to both commercial and Open Access publications. APCs are sometimes charged to authors in order to cover the cost of publishing and disseminating an article in an Open Access scholarly journal. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Repository (article)
+</question>
+<answer>
+An archive to deposit manuscripts. These can be personal, institutional, on websites such as R​esearchGate​or A​cademia.edu,​or subject-based such as a​rXiv.​
+</answer>
+</faq>
+<faq>
+<question>
+Repository (software)
+</question>
+<answer>
+a collection of files managed with version control software (e.g., bzr, hg, git, csv, svn, etc.). Can be hosted by third-party (e.g., github, bitbucket, sourceforge), by an institution, or self-hosted locally.
+</answer>
+</faq>
+<faq>
+<question>
+Institutional Respository
+</question>
+<answer>
+​An online database designed to collect the intellectual output of a particular institution or university, including digital collections such as electronic theses and dissertations (ETDs), pre-prints, or faculty scholarship, and presents associated metadata regarding the these items. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Embargo Period
+</question>
+<answer>
+A length of time imposed on a research output for users who have not paid for access, or do not have institutional access, before it is made freely available.
+</answer>
+</faq>
+<faq>
+<question>
+Reproducibility
+</question>
+<answer>
+T​he similarity between results of a study or experiment and independent results obtained with the same methods but under different conditions (i.e., pertains to results).
+</answer>
+</faq>
+<faq>
+<question>
+Repeatability
+</question>
+<answer>
+The similarity between results of a study or experiment and independent results obtained with the same methods and under identical conditions (i.e., pertains to methods and analysis).
+</answer>
+</faq>
+<faq>
+<question>
+Publishing
+</question>
+<answer>
+To make a research output available to the public. Commonly refers to the release of works by publishers, irrespective of whether public access is granted or not.
+</answer>
+</faq>
+<faq>
+<question>
+Sharing
+</question>
+<answer>
+The joint use of a resource or space. A fundamental aspect of collaborative research. As most research is digitally-authored & digitally-published, the resulting digital content is non-rivalrous and can be shared without any loss to the original creator.
+</answer>
+</faq>
+<faq>
+<question>
+Paywall
+</question>
+<answer>
+R​estriction via a financial barrier to research, often implemented by legacy publishers. Can be removed by personal or institutional subscription. See Loginwall for a barrier that prevents access, without asking for money to unlock access.
+</answer>
+</faq>
+<faq>
+<question>
+Funder
+</question>
+<answer>
+An institute, corporation or government body that provides financial assistance for research.
+</answer>
+</faq>
+<faq>
+<question>
+Publisher
+</question>
+<answer>
+A company whose purpose is to make the outputs of research publicly available.
+</answer>
+</faq>
+<faq>
+<question>
+Creative Work
+</question>
+<answer>
+A​n original, identifiable piece of content, such as an academic paper, a diagram, a photograph, or a video clip. Owners of creative works have rights, such as copyright, that they might reserve to keep control of the content, or relinquish to allow others
+to share and reuse that content.
+</answer>
+</faq>
+<faq>
+<question>
+Intellectual Property (IP)
+</question>
+<answer>
+A legal term that refers to creations of the mind. Examples of intellectual property include music, literature, and other artistic works; discoveries and inventions; and phrases, symbols, and designs.
+</answer>
+</faq>
+<faq>
+<question>
+Intellectual Property Rights (IPR)
+</question>
+<answer>
+The rights given to the owners of intellectual property. IPR is protected either automatically (eg copyright, design rights) or by registering or applying for it (eg trademarks, patents). P​rotecting your intellectual property makes it easier to take legal action against anyone who steals or copies it. IPR can be legally sold, assigned or licenced by the creator to other parties, or joint-owned.
+</answer>
+</faq>
+<faq>
+<question>
+Copyright
+</question>
+<answer>
+T​he aspect of Intellectual property that gives creators the right to permit (or not permit) what happens to their creations, as opposed to trademark rights or moral rights.
+</answer>
+</faq>
+<faq>
+<question>
+Copyleft
+</question>
+<answer>
+A ​form of licensing that makes a creative work freely available to be modified, and requiring all modified and extended versions of the creative work to be free as well. Open Access does not require works to be copyleft, nor does it necessarily exclude copyleft works from being open access. The recommended licence (CC-BY) for academic publishing is not copyleft.
+</answer>
+</faq>
+<faq>
+<question>
+Subscription
+</question>
+<answer>
+A form of business model whereby a fee is paid in order to gain access to a product or service - in this case, the outputs of scholarly research.
+</answer>
+</faq>
+<faq>
+<question>
+Subscription
+</question>
+<answer>
+Whereby a fee is required to pass a paywall to access research.
+</answer>
+</faq>
+<faq>
+<question>
+Legacy Publisher
+</question>
+<answer>
+A publisher that historically has operated on a paywall-based b​usiness model.
+</answer>
+</faq>
+<faq>
+<question>
+Open Access Publisher
+</question>
+<answer>
+A ​publisher that publishes all research articles as open access articles. Most legacy publishers have options to make journals at least partially open access.
+</answer>
+</faq>
+<faq>
+<question>
+Open Access Journal
+</question>
+<answer>
+A journal that exclusively comprises open access articles
+</answer>
+</faq>
+<faq>
+<question>
+Impact
+</question>
+<answer>
+T​he scale of use of research outputs both inside and outside of academia.
+</answer>
+</faq>
+<faq>
+<question>
+Self Archiving
+</question>
+<answer>
+M​aking a copy of a manuscript available through a personal website, institutional repository, or other repository.
+</answer>
+</faq>
+<faq>
+<question>
+Scholarly Communication
+</question>
+<answer>
+The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community. The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community. (Sources: W​ikipedia,​U​niversity of Pittsburgh)​
+</answer>
+</faq>
+<paragraph>TYPES OF OPEN ACCESS</paragraph>
+<faq>
+<question>
+Pre-Print
+</question>
+<answer>
+A manuscript draft that has not yet been subject to formal peer review, distributed to receive early feedback on research from peers.
+</answer>
+</faq>
+<faq>
+<question>
+Post-Print
+</question>
+<answer>
+A ​manuscript draft after it has been peer reviewed.
+</answer>
+</faq>
+<faq>
+<question>
+Version of Record (VOR)
+</question>
+<answer>
+T​he final version of a manuscript, after peer review and processing by a publishers.
+</answer>
+</faq>
+<faq>
+<question>
+Hybrid
+</question>
+<answer>
+A ​type of journal in which certain articles are made open access, while others remain toll access.
+</answer>
+</faq>
+<faq>
+<question>
+Accepted Author Manuscript
+</question>
+<answer>
+T​he version of a manuscript that has been accepted by a publisher for publication.
+</answer>
+</faq>
+<faq>
+<question>
+ePrint
+</question>
+<answer>
+A digital version of a research document available online for a repository.
+</answer>
+</faq>
+<paragraph>
+Depreciated terms, the use of which is not encouraged as they are typically poorly-understood:
+</paragraph>
+<faq>
+<question>
+Gold OA
+</question>
+<answer>
+Making the final version of manuscript freely available immediately upon publication by the publisher.
+</answer>
+</faq>
+<faq>
+<question>
+Green OA
+</question>
+<answer>
+Making a version of the manuscript freely available in a repository.
+</answer>
+</faq>
+<faq>
+<question>
+Gratis OA
+</question>
+<answer>
+The paper is available to read free-of-charge, though its reuse is still restricted, for e x a m p l e b y ‘ A l l R i g h t s R e s e r v e d ’ c o p y r i g h t . ( s​o u r c e )​
+</answer>
+</faq>
+<faq>
+<question>
+Libre OA
+</question>
+<answer>
+T​he paper is made available under an open licence, allowing it to be shared and reused, depending on which licence is used. (s​ource) ​(Libre and Gratis refer to copyright and licensing restrictions)
+</answer>
+</faq>
+<faq>
+<question>
+Diamond OA
+</question>
+<answer>
+A form of gold open access in which there is no author fee (APC).
+</answer>
+</faq>
+<paragraph>DECLARATIONS AND PRINCIPLES</paragraph>
+<faq>
+<question>
+The Declaration of Helsinki​
+</question>
+<answer>
+1964
+</answer>
+</faq>
+<faq>
+<question>
+The Bethesda Statement on Open Access Publishing
+</question>
+<answer>
+2003
+</answer>
+</faq>
+<faq>
+<question>
+Declaration of Havana Towards Equitable Access to Health Information​
+</question>
+<answer>
+2001
+</answer>
+</faq>
+<faq>
+<question>
+The Declaration of Berlin on Open Access to Knowledge in the Sciences and Humanities​
+</question>
+<answer>
+2003
+</answer>
+</faq>
+<faq>
+<question>
+Kronberg Declaration on the Future of Knowledge Acquisition and Sharing
+</question>
+<answer>
+2007
+</answer>
+</faq>
+<faq>
+<question>
+The Declaration of Brisbane
+</question>
+<answer>
+2007
+</answer>
+</faq>
+<faq>
+<question>
+Panton Principles for Open Data (​by Peter Murray-Rust, Cameron Neylon, Rufus Pollock, and John Wilbanks)
+</question>
+<answer>
+2009
+</answer>
+</faq>
+<faq>
+<question>
+The Cost of Knowledge Manifesto​
+</question>
+<answer>
+2012
+</answer>
+</faq>
+<faq>
+<question>
+The San Francisco Declaration on Research Assessment (DORA)
+</question>
+<answer>
+2013
+</answer>
+</faq>
+<paragraph>
+LICENCING
+</paragraph>
+<faq>
+<question>
+Creative Commons
+</question>
+<answer>
+A​ suite of licences that set out the rights of authors and users, providing alternatives to the standard copyright. CC licences are widely used, simple to state, machine readable and have been created by legal experts. T​here are a variety of CC licences, each of which use one or more clauses, examples of which are given below. Some licences are compatible with Open Access in the Budapest sense, and some are not. (S​ource)​(C​hoosing a license)​
+</answer>
+</faq>
+<faq>
+<question>
+CC Attribution (BY)
+</question>
+<answer>
+A ​licence clause that allows the reuse, sharing, and remixing of materials providing the original author is appropriately attributed. Aside from attribution the CC-BY licence has no other restrictions on copying. Compatible with free cultural works.
+</answer>
+</faq>
+<faq>
+<question>
+CC NonCommercial (NC)
+</question>
+<answer>
+A licence clause a​llowing the reuse, sharing, and remixing of materials providing that it is for non-commercial purposes. Not compatible with free cultural works.
+</answer>
+</faq>
+<faq>
+<question>
+CC NoDerivatives (ND)
+</question>
+<answer>
+A ​licence clause requiring that derivatives are not made of the original works. Not compatible with free cultural works.
+</answer>
+</faq>
+<faq>
+<question>
+ CC ShareAlike (SA)
+</question>
+<answer>
+A ​licence clause requiring that derivative works have the same licence as the original. Compatible with free cultural works.
+</answer>
+</faq>
+<faq>
+<question>
+CC 0
+</question>
+<answer>
+Waiver of copyright;​n​o rights reserved. Places content as openly as possible in the public domain. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+BSD (Berkeley Software Distribution)
+</question>
+<answer>
+A ​family of UNIX-like operating systems. (W​ikipedia)​
+</answer>
+</faq>
+<faq>
+<question>
+GNU GPL (General Public License)
+</question>
+<answer>
+A​ free copyleft license for software and other kinds of works (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Apache License
+</question>
+<answer>
+​A free software license by the Apache Software Foundation.(S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+MIT Licence
+</question>
+<answer>
+​A n o p e n a n d p e r m i s s i v e s o f t w a r e l i c e n s e . ( S​o u r c e )​
+</answer>
+</faq>
+<faq>
+<question>
+Author Addendum
+</question>
+<answer>
+An author addendum is a supplemental or added agreement to a publishing contract that defines or changes the terms of the contract, often focusing on the transfer of copyright ownership. For authors of scholarly works, an author addendum to a publisher’s standard publication contract may be necessary to help ensure that authors protect important rights, such as the right to post their articles online to a personal website or in a digital repository; the right to use their works within a classroom setting; or the right to use their works as the foundation for future research. (S​ource)​
+</answer>
+</faq>
+<paragraph>
+JOURNAL TYPES
+</paragraph>
+<faq>
+<question>
+Megajournal
+</question>
+<answer>
+A ​journal with editorial criteria based on scientific soundness instead of a priori estimated newsworthiness or 'impact'.
+</answer>
+</faq>
+<faq>
+<question>
+Journal
+</question>
+<answer>
+An aggregation of published research articles. Historically divided into volumes and issues.
+</answer>
+</faq>
+<faq>
+<question>
+Overlay journal
+</question>
+<answer>
+A​n open access, electronic journal that does not produce its own content, but selects and curates groups of articles that are already freely available online. An example of this is an ‘Epijournal’. (W​ikipedia)​
+</answer>
+</faq>
+<faq>
+<question>
+ePub
+</question>
+<answer>
+A free and open e​-book​standard by the I​nternational Digital publishing Forum.​
+</answer>
+</faq>
+<faq>
+<question>
+Hybrid Journal
+</question>
+<answer>
+Some traditional journals offer an option for authors to make their individual articles freely accessible to anyone worldwide, for an additional fee. Other articles in the journal remain accessible only through subscription. Such journals are known as "hybrid journals." (S​ource: MIT)​
+</answer>
+</faq>
+<faq>
+<question>
+Library Based Publishing
+</question>
+<answer>
+​Many academic libraries are now beginning to act as publishers for scholarly works produced in their institutions and elsewhere. In some cases, the library works with the university scholarly press to publish works. In other cases, the library publishes works independently or separately from the academic press. Library-based publishers are often strongly in favor of Open Access. (L​ibrary Publishing Coalition)​
+</answer>
+</faq>
+<paragraph>
+PEER REVIEW
+</paragraph>
+<faq>
+<question>
+Peer Review
+</question>
+<answer>
+A process by which a research article is vetted by experts in community before publication. (S​ense About Science)​
+</answer>
+</faq>
+<faq>
+<question>
+Post Publication Peer Review
+</question>
+<answer>
+S​tandard peer review, but after a research article has been formally published.
+</answer>
+</faq>
+<faq>
+<question>
+Transferable Peer Review
+</question>
+<answer>
+R​eviews that travel with a paper if it is rejected from a journal. (W​iley pilot)​
+</answer>
+</faq>
+<faq>
+<question>
+Open Review
+</question>
+<answer>
+W​hen reviews are made openly available, typically alongside the article.
+</answer>
+</faq>
+<faq>
+<question>
+Signed Peer Review
+</question>
+<answer>
+W​hen the individual reviews are publicly signed by those who conducted them.
+</answer>
+</faq>
+<faq>
+<question>
+Portable Peer Review
+</question>
+<answer>
+Independent peer review that travels with a manuscript that is submitted to subsequent different journals, designed to combat redundancy in the peer review process. (R​ubriq)​
+</answer>
+</faq>
+<faq>
+<question>
+Double Blind Peer Review
+</question>
+<answer>
+W​hen the reviewers don't know who the authors are, and vice versa.
+</answer>
+</faq>
+<faq>
+<question>
+Registered Review
+</question>
+<answer>
+A ​type of publication in which p​eer review of the suggested method is completed prior to data collection and analysis. Accepted papers then are guaranteed publication in the journal if the authors follow through with the registered methodology (S​ource)​
+</answer>
+</faq>
+<paragraph>
+ASSESSMENT AND METRICS
+</paragraph>
+<faq>
+<question>
+Altmetrics
+</question>
+<answer>
+A​ltmetrics are alternative ways of recording and measuring the use and impact of scholarship. Rather than solely counting the number of times a work is cited in scholarly literature, alternative metrics also measure and analyze social media (e.g., Facebook, Twitter, blogs, wikis, etc.), document downloads, links to publishing and unpublished research, and other uses of research literature, in order to provide a more comprehensive measurement of scholarships reach and impact. (S​ource)
+</answer>
+</faq>
+<faq>
+<question>
+Article Level Metrics
+</question>
+<answer>
+A​ll types of article-level​metrics including download and usage statistics, citations, and article-level altmetrics (S​ource)​.￼￼￼￼￼￼￼￼￼
+</answer>
+</faq>
+<faq>
+<question>
+Bibliometrics
+</question>
+<answer>
+​Bibliometrics is the branch of library and information science concerned with the application of mathematical and statistical analysis to bibliography. Bibliometrics involves the statistical analysis of books, articles, or other publications.
+</answer>
+</faq>
+<faq>
+<question>
+Impact Factor
+</question>
+<answer>
+A ​numerical measure that indicates the average number of citations to articles published over the previous two years in a journal, and frequently used as a proxy for a journal's relative importance.
+</answer>
+</faq>
+<faq>
+<question>
+H-Index
+</question>
+<answer>
+A personal metric that relates the number of citations to the number of published papers for an academic. (W​ikipedia)​
+</answer>
+</faq>
+<faq>
+<question>
+Journal Level Metrics
+</question>
+<answer>
+M​etrics that apply to all papers published within a journal. A common example is Thomson Reuters’ journal impact factor.
+</answer>
+</faq>
+<paragraph>TOOLS AND TECHNOLOGY</paragraph>
+<faq>
+<question>
+Extensible Markup Language (XML)
+</question>
+<answer>
+A language that defines a set of rules for encoding documents in a format that is readable by both machines and humans. (W​ikipedia)​
+</answer>
+</faq>
+<faq>
+<question>
+Machine Readable
+</question>
+<answer>
+Data or metadata in a format that can be understood by a computer.
+</answer>
+</faq>
+<faq>
+<question>
+Machine Readable Cataloguing(MARC)
+</question>
+<answer>
+A​ set of digital formats for the description of items catalogued by libraries. (W​ikipedia)​
+</answer>
+</faq>
+<faq>
+<question>
+Data Mining
+</question>
+<answer>
+An analytic process designed to explore data in search of consistent patterns and/or systematic relationships between variables, and then to transform this information into content for future use. (W​ikipedia)​
+</answer>
+</faq>
+<faq>
+<question>
+Content Mining
+</question>
+<answer>
+Large-scale e​xtraction of information from content (e.g., photographs, videos, audio, metadata), usually involving thousands of items.​(​The C​ontentMine)​
+</answer>
+</faq>
+<faq>
+<question>
+Comma-Separated Values, or Character-Separated Values (CSV)
+</question>
+<answer>
+A plain-text (non-binary) format for tabular data.
+</answer>
+</faq>
+<faq>
+<question>
+Hypertext Markup Language (HTML)
+</question>
+<answer>
+T​he set of markup symbols or codes inserted in a file intended for display on a browser page. (W​ikipedia)​
+</answer>
+</faq>
+<faq>
+<question>
+LATeX
+</question>
+<answer>
+A markup language for typesetting documents, particularly common in mathematics and the sciences. Many academic journals accept submissions in LaTeX. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Digital Object Identifier (DOI)
+</question>
+<answer>
+​A unique text string that is used to identify digital objects such as journal articles or open source software releases. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Journal Article Tag Suite (JATS)
+</question>
+<answer>
+A common XML format in which publishers and archives can exchange journal content. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Uniform Resource Identifier (URI)
+</question>
+<answer>
+A ​string of characters used to identify a name of a resource to enable its digital and networked representation and interaction. (W​ikipedia)​
+</answer>
+</faq>
+
+
+
+
+
+
+
+</page>
