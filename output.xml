@@ -752,6 +752,371 @@ Uniform Resource Identifier (URI)
 A ​string of characters used to identify a name of a resource to enable its digital and networked representation and interaction. (W​ikipedia)​
 </answer>
 </faq>
+<faq>
+<question>
+Github
+</question>
+<answer>
+A ​web-based service that provides a source code repository that works exclusively with the Git command-line tool. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Git
+</question>
+<answer>
+An open-source, distributed revision control system. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Bitbucket
+</question>
+<answer>
+Free source code hosting site. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+IPython Notebook
+</question>
+<answer>
+A web-based interactive computational environment where you can combine code execution, text, mathematics, plots and rich media into a single document. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+AnnotatorJS / Hypothes.is
+</question>
+<answer>
+A framework and application for annotating resources online according to an e​merging W3C standard for web annotations.​Focus is on scholarly a p p l i c a t i o n s . ( S​o u r c e A n n o t a t o r ​/ S​o u r c e H y p o t h e s . i s )​
+</answer>
+</faq>
+<faq>
+<question>
+DSpace
+</question>
+<answer>
+Software for digital open repositories launched by The M​assachusetts Institute of Technology (MIT) in 2002. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Flexible Extensible Digital Object and Repository Architecture (FEDORA)
+</question>
+<answer>
+​Software for digital repositories launched by The Cornell and Virginia Universities in 2003.
+</answer>
+</faq>
+<faq>
+<question>
+Eprints
+</question>
+<answer>
+Software for open digital repositories t​o self-archiving launched by Southampton University in 2000. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+OAI Media Importer Bot
+</question>
+<answer>
+A computer program, run by D​aniel Mietchen,​that takes figures and video clips from Open Access articles in PubMed, and copies them to W​ikimedia Commons with full attribution of the original paper. This facilitates the reuse of those files in educational materials or Wikipedia articles.
+</answer>
+</faq>
+<faq>
+<question>
+Scraping
+</question>
+<answer>
+A​ computing technique to extract information from websites. (W​ikipedia)​
+</answer>
+</faq>
+<faq>
+<question>
+Scalable Vector Graphics (SVG)
+</question>
+<answer>
+A format for images that is open rather than tied to particular software, resolution-independent (unlike GIF, PNG and JPG), and structured so that with appropriate software it is relatively easy, for example, to translate labels into different languages.
+</answer>
+</faq>
+<faq>
+<question>
+Open Journal Systems (OJS)
+</question>
+<answer>
+A ​journal management and publishing system. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Open Monograph Press
+</question>
+<answer>
+An open source software platform for managing the editorial workflow required to see monographs, edited volumes, and scholarly editions through internal and external review, editing, cataloguing, production and publication. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Open Conference Systems (OCS)
+</question>
+<answer>
+A ​free Web publishing tool that will create a complete Web presence for scholarly conferences. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Open Harvester Systems (OHS)
+</question>
+<answer>
+A free metadata indexing system. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+ResearcherID
+</question>
+<answer>
+A​ssigns a unique identifier for researchers to manager publication ists, track citations, and avoid author mis-identification. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+ORCID
+</question>
+<answer>
+A ​persistent digital identifier that distinguishes individual researchers. Also supports integration in research workflows. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+ProtocolsIO
+</question>
+<answer>
+U​p-to-date crowdsourced protocol repository (S​ource)
+</answer>
+</faq>
+<faq>
+<question>
+Publish or Perish
+</question>
+<answer>
+S​oftware for retrieving and analysing academic citations. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Open Lab Notebooks
+</question>
+<answer>
+A concept of blogging about research on a regular basis, such that research notes and data are accumulated and published online as soon as they are obtained.
+</answer>
+</faq>
+<faq>
+<question>
+Stack Overflow
+</question>
+<answer>
+A Question and Answer site for programming issues. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Markdown
+</question>
+<answer>
+A syntax for adding formatting to documents allowing correctly formatted articles to be written in plain text. (W​ikipedia)​
+</answer>
+</faq>
+<faq>
+<question>
+Etherpad
+</question>
+<answer>
+An online, open source collaborative writing/editing tool operating in real time.
+</answer>
+</faq>
+<faq>
+<question>
+Open Access Button
+</question>
+<answer>
+Tracks global encounters with paywalls, and helps provide access to papers through a ‘wishlist’. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Open Archives Initiative
+</question>
+<answer>
+​Supplies a common framework to web communities that allows them to gain access to content in a standard manner by means of metadata harvesting. (S​ource)​
+</answer>
+</faq>
+<paragraph>
+DATA REPOSITORIES
+</paragraph>
+<faq>
+<question>
+Dryad
+</question>
+<answer>
+A ​curated resource that makes the data underlying scientific publications discoverable, freely reusable, and citable. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Global Biodiversity Information Facility (GBIF)
+</question>
+<answer>
+C​ontains data about all types of life on Earth, published according to common data standards. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Knowledge Network for Biocomplexity (KNB)
+</question>
+<answer>
+A ​network for the discoverability, access, and interpretation of complex ecological data. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+DataONE
+</question>
+<answer>
+​A framework and infrastructure for Earth observational data. S​ource.
+</answer>
+</faq>
+<faq>
+<question>
+figshare
+</question>
+<answer>
+A repository where users can make all of their research outputs available in a citable, shareable, and discoverable manner. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Morphbank
+</question>
+<answer>
+An image database documenting a range of specimen-based research, including comparative anatomy and taxonomy. Funded by the National Science Foundation. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Morphobank
+</question>
+<answer>
+A ​web application for collaborative evolutionary research, specifically phylogenetic systematics or cladistics, involving morphology. (S​ource)
+</answer>
+</faq>
+<faq>
+<question>
+Genbank
+</question>
+<answer>
+The NIH sequence database comprising an annotated collection of all publicly available DNA sequences. Part of the I​nternational Nucleotide Sequence Database Collaboration.​(S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+UniProt
+</question>
+<answer>
+Central repository of protein sequence and annotation data. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Worldwide Protein Data Bank (w​wPDB)
+</question>
+<answer>
+Publicly available repository of macromolecular structural data. (S​ource)​
+</answer>
+</faq>
+<paragraph>A l​ist of data repositories ​approved   by F1000 Research.</paragraph>
+<faq>
+<question>
+Map of Open Educational Resource Repositories
+</question>
+<answer>
+Map containing locations for items in the directory of Open Educational Resource Repositories. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Zenodo
+</question>
+<answer>
+An all-purpose free to use repository for all research outputs. DOIs and flexible licensing. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Open Science Framework
+</question>
+<answer>
+A tool created by the Center for Open Science for scientists. It is both a research and workflow management tool and open repository. Their goal is to link up the entire research ecosystem, from conception through publication. They give the user full control over the openness of their work and allow for the creation of registrations, which can be used when submitting registered reports. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+re3data.org
+</question>
+<answer>
+A global registry of research data repositories from different academic disciplines. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Databib
+</question>
+<answer>
+A searchable registry of research data repositories (S​o​urce)​[Note that the Databib and re3data.org registries will merch by the end of 2015]
+</answer>
+</faq>
+<paragraph>FUNDERS AND POLICY-RELATED</paragraph>
+<faq>
+<question>
+Publicly Funded Research
+</question>
+<answer>
+Refers to research which is, at least in part, funded by Governments, often through Research Councils.
+</answer>
+</faq>
+<faq>
+<question>
+Research Councils UK (RCUK)
+</question>
+<answer>
+The primary government research funding body in the UK. (O​pen Access policy)​
+</answer>
+</faq>
+<faq>
+<question>
+Joint Information Systems Committee (JISC)
+</question>
+<answer>
+A UK educational charity, formerly the of HEFCE but now independent. Provides expertise to universities, colleges and cultural institutions on the use of technology to support research, including publication models, repositories, licensing, and infrastructure. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+National Institutes of Health (NIH)
+</question>
+<answer>
+The national medical research agency in the USA. (P​ublic Access policy)​
+</answer>
+</faq>
+<faq>
+<question>
+National Science Foundation (NSF)
+</question>
+<answer>
+An independent federal agency in the USA for the funding of research. (P​ublic​Access policy)​
+</answer>
+</faq>
 
 
 
