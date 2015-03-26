@@ -1410,7 +1410,7 @@ V​alidating the statistical results, errors, and confidence measures in resear
 </faq>
 <faq>
 <question>
-Loginwal
+Loginwall
 </question>
 <answer>
 The requirement to log in to a system in order to access content.
@@ -1418,23 +1418,471 @@ The requirement to log in to a system in order to access content.
 </faq>
 <faq>
 <question>
-
+Shibboleth
 </question>
 <answer>
-	
+A single sign-in system for computer networks and services on the open Internet.
 </answer>
 </faq>
 <faq>
 <question>
-
+Athens
 </question>
 <answer>
-	
+​A sign-in system that provides access to library resources. (S​ource)​
 </answer>
 </faq>
-
-
-
-
-
+<faq>
+<question>
+Symplectic
+</question>
+<answer>
+A​ world- leading products and services company specialised in research information management. Their flagship system E​lements,​is used by a number of the world’s research institutions. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Journal to Wiki publication (J2W)
+</question>
+<answer>
+C​opying text from a published paper to a wiki (such as Wikipedia or Wikibooks), with attribution: legally possible if the licence of the paper is less restrictive than the licence of the wiki.
+</answer>
+</faq>
+<faq>
+<question>
+Wiki to Journal publication (W2J)
+</question>
+<answer>
+C​reating a paper on a wiki, using its features for collaboration and informal review, for submission to a journal for formal peer review. Might involve a public wiki such as Wikipedia or Wikiversity, or a specially-created wiki.
+</answer>
+</faq>
+<faq>
+<question>
+Fee Waiver
+</question>
+<answer>
+If an institution, research funder or author cannot pay for an Article Processing Charge, many publishers or journals will offer partial or total waiving for fees.
+</answer>
+</faq>
+<faq>
+<question>
+Derivative work
+</question>
+<answer>
+​A work based upon one or more pre-existing works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Double Dipping
+</question>
+<answer>
+In the context of Open Access, double-dipping occurs when a journal has an article processing charge (APC) for publishing an author’s work, as well as requiring payment (usually through a subscription fee) by the potential user of the work. This model makes the institution or author pay twice to access the work. (S​ource)​
+</answer>
+</faq>
+<paragraph>
+SOURCES
+</paragraph>
+<faq>
+<question>
+Google Scholar
+</question>
+<answer>
+A freely accessible search engine for indexing the scholarly literature across an array of publishing formats and disciplines. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Directory of Open Access Journals (DOAJ)
+</question>
+<answer>
+A directory indexing open access peer-reviewed journals (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Directory of Open Access Repositories (OpenDOAR)
+</question>
+<answer>
+A directory of academic open access repositories. Also has a search function for repositories and repository contents. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Registry of Open Access Repositories (ROAR)
+</question>
+<answer>
+A registry for open access repositories, hosted by the University of Southampton, UK. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Registry of Research Data Repositories
+</question>
+<answer>
+An open science tool that serves as a global registry of research data repositories. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Pubmed
+</question>
+<answer>
+A ​repository comprising more than 24 million citations for the biomedical literature. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Pubmed Central
+</question>
+<answer>
+A ​free full-text archive of biomedical and life sciences journal literature at the US National Institutes of Health’s Library of Medicine. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Europe Pubmed Central
+</question>
+<answer>
+Based on PubMed Central, and part of a network of repositories supported by funders of life sciences and biomedical research. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Repository 66
+</question>
+<answer>
+​A mashup of data from ROAR and OpenDOAR overlayed onto Google maps.(S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Scientific Electronic Library Online (SciELO)
+</question>
+<answer>
+A programme started in Brazil in 1998 which has now expanded to 15 other countries, developed by FAPESP (Fundação de Amparo à Pesquisa do Estado de São Paulo) and BIREME (Centro Latino-americano e do Caribe em Informação em Ciências da Saúde). The objectives are to develop a common methodology for the preparation, storage and dissemination of scientific literature, including standardised evaluation and quality control processes. This comprises a model for cooperative electronic publication of scientific periodicals on the internet using organised bibliographic databases with full text access. (S​ource (Portuguese Language)​(​English))​
+</answer>
+</faq>
+<faq>
+<question>
+Securing a Hybrid Environment for Research Preservation and Access
+</question>
+<answer>
+R​ights of Metadata for Open archiving (SHERPA-RoMEO) - a​tool to check what the self-archiving policies for individual journals are. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Wikipedia
+</question>
+<answer>
+A multilingual, web-based, free-content encyclopedia project supported by the Wikimedia Foundation and based on a model of openly editable content. It is written collaboratively by volunteers.
+</answer>
+</faq>
+<faq>
+<question>
+Wikimedia
+</question>
+<answer>
+A global charitable movement, including volunteers, online platforms, and organisations, that aims to make the sum of all knowledge available to everyone on the planet. Wikimedia maintains and develops Wikipedia, Wikidata, Wikimedia Commons and other content projects, all of which are free and open. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+ Connecting Repositories (CORE)
+</question>
+<answer>
+A ​collection of open access repositories. (S​ource)​
+</answer>
+</faq>
+<paragraph>
+RESOURCES
+</paragraph>
+<faq>
+<question>
+Information about worldwide research funders and institutions that fund open access article processing charges 
+</question>
+<answer>
+​h​ttp://www.nature.com/authors/open_access/funding.html
+</answer>
+</faq>
+<faq>
+<question>
+Center for Open Science
+</question>
+<answer>
+A​ non-profit organization that works in a variety of ways to increase openness, reproducibility, and integrity in science. Resources for scientists, journals, and developers are listed below. (Tools, grants, badges, registered reports) http://centerforopenscience.org/involved_participate/
+</answer>
+</faq>
+<faq>
+<question>
+Course on Open Research from the OER Research Hub.
+</question>
+<answer>
+Link
+</answer>
+</faq>
+<faq>
+<question>
+The School of Open, comprising courses, workshops and training programs. 
+</question>
+<answer>
+Link
+</answer>
+</faq>
+<faq>
+<question>
+List of Open Science books
+</question>
+<answer>
+Link
+</answer>
+</faq>
+<paragraph>Explainers by E​va Amsen​of F1000Research:</paragraph>
+<faq>
+<question>
+What is Open Access?
+</question>
+<answer>
+Link
+</answer>
+</faq>
+<faq>
+<question>
+What is Open Peer Review?
+</question>
+<answer>
+Link
+</answer>
+</faq>
+<faq>
+<question>
+What is post-publication peer review?
+</question>
+<answer>
+Link
+</answer>
+</faq>
+<faq>
+<question>
+What is Open Data?
+</question>
+<answer>
+Link
+</answer>
+</faq>
+<faq>
+<question>
+What is Open Research?
+</question>
+<answer>
+Link
+</answer>
+</faq>
+<faq>
+<question>
+Lots of Copies Keep Stuff Safe (LOCKSS)
+</question>
+<answer>
+P​rovides libraries and publishers with low-cost, open source digital preservation tools to preserve and provide access to persistent and authoritative digital content. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+OpenLOCKSS
+</question>
+<answer>
+A project to negotiate with UK open access publishers for permission to include their titles in LOCKSS. Funded by JISC and led by the University of Glasgow, UK. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+CLOCKSS
+</question>
+<answer>
+A​n archive for the long-term storage of Web-based scholarly publications. (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+The Open Data Handbook
+</question>
+<answer>
+D​iscusses the legal, social and technical aspects of open data.
+(S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+ The Open Access DOI Resolver
+</question>
+<answer>
+Links to repository URLs upon provision of a DOI.(S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+ How Open is it? 
+</question>
+<answer>
+S​tandardised open access terminology, created by P​LOS,​S​PARC a​nd O​ASPA.​ (S​ource)​
+</answer>
+</faq>
+<faq>
+<question>
+Other Open glossaries:
+</question>
+<answer>
+U​niversity Library System, University of Pittsburgh;​O​xford; S​HERPA; Cultural Anthropology Journal.​
+</answer>
+</faq>
+<faq>
+<question>
+Open Science Stack Exchange 
+</question>
+<answer>
+Question and answer site for scientists interested in openly sharing their research (S​ource)​
+</answer>
+</faq>
+<permissions>
+<copyright-statement>
+Copyright: &#x00A9; 2014 The Author(s)
+</copyright-statement>
+<copyright-year>
+2015
+</copyright-year>
+<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+<license-p>
+This is distributed under the terms of the Creative Commons Attribution 4.0 License (CC-BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. See <uri xlink:href="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</uri>.</license-p>
+</license>
+</permissions>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname>
+Tennant
+</surname>
+<given-names>
+Jon
+</given-names>
+</name>
+<name>
+<surname>
+Mounce
+</surname>
+<given-names>
+Ross
+</given-names>
+</name>
+</contrib>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="contributor">
+<name>
+<surname>
+Iannone
+</surname>
+<given-names>
+Richard
+</given-names>
+</name>
+<name>
+<surname>
+Bowley
+</surname>
+<given-names>
+Chealsye
+</given-names>
+</name>
+<name>
+<surname>
+Poulter
+</surname>
+<given-names>
+Martin
+</given-names>
+</name>
+<name>
+<surname>
+Hall
+</surname>
+<given-names>
+Matt
+</given-names>
+</name>
+<name>
+<surname>
+Ulguim
+</surname>
+<given-names>
+Priscilla
+</given-names>
+</name>
+<name>
+<surname>
+Woodley
+</surname>
+<given-names>
+Lou
+</given-names>
+</name>
+<name>
+<surname>
+Fausto
+</surname>
+<given-names>
+Sibele
+</given-names>
+</name>
+<name>
+<surname>
+Fatima
+</surname>
+<given-names>
+Nazeefa
+</given-names>
+</name>
+<name>
+<surname>
+Cranston</surname>
+<given-names>
+Karen
+</given-names>
+</name>
+<name>
+<surname>
+Collister
+</surname>
+<given-names>
+Lauren B.
+</given-names>
+</name>
+<name>
+<surname>
+Taylor
+</surname>
+<given-names>
+Alasdair
+</given-names>
+</name>
+<name>
+<surname>
+Menzenski
+</surname>
+<given-names>
+Matt
+</given-names>
+</name>
+<name>
+<surname>
+Herterich
+</surname>
+<given-names>
+Patricia
+</given-names>
+</name>
+</contrib>
+</contrib-group>
 </page>
+
+
